@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MajliTech
 - 👀 I’m interested in doing programming stuff
-- 🌱 I’m currently learning Python
-- 📫 MajliTech#5332 hello@majlitech.pl
+- 🌱 I’m currently learning Rust
+- 📫 hello@majlitech.pl
 
 <!---
 MajliTech/MajliTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
