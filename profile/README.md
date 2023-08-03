@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MajliTech
-- 👀 I’m interested in doing programming stuff
-- 🌱 I’m currently learning Rust
-- 📫 hello@majlitech.pl
+
