@@ -24,6 +24,6 @@ Thanks for visiting my profile! Feel free to reach out if you want to collaborat
 
 - **Email:** hello@majlitech.pl
 
-Dziękuję za odwiedzenie mojego profilu! Nie krępuj się, jeśli chcesz współpracować nad projektem lub po prostu powiedzieć cześć. 😊
+Dziękuję za odwiedzenie mojego profilu! Nie bój się ze mną skontaktować, jeśli chcesz współpracować nad projektem lub po prostu powiedzieć cześć. 😊
 
 ![Statystyki GitHub MajliTech](https://github-readme-stats.vercel.app/api?username=MajliTech&show_icons=true&theme=swift)
